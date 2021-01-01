@@ -1,5 +1,5 @@
-# Precog_task
-Movie recommendation system using collaborative filtering.
+
+# Movie recommendation system using collaborative filtering.
 Implemented it using 3 ways-User-user,item-item & matrix factorization(using svds)
 
 User has to pick and rate any 4 movies(on scale of 1 to 5) out of assorted and diversified collection of 300 movies he/she watched previously.Based on this input, system recommends 4 more movies that should be similar to his/her interests.
